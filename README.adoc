@@ -7,9 +7,9 @@ that can be helpful for students of Red Hat GPTE courses.
 
 Even if you are a seasoned Linux user or admin, sometimes you need a refresher.
 
-Basic Linux commands:
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/linux_cheatsheet_bw.pdf[Basic Linux commands] (source: https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet)
 
-Advanced Linux commands:
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/rheladvancedlinux_cheat_sheet_r3v1.pdf[Advanced Linux commands] (source: https://developers.redhat.com/cheat-sheets/advanced-linux-commands)
 
 == Vim Editor
 
@@ -17,47 +17,65 @@ There are many Vim cheat sheets, from 1-pagers to long handbooks covering every 
 We've chosen the ones that contain the most important information in the very beginning:
 how to exit Vim.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Vim%20cheatsheet.pdf[Vim Editor] (source: https://github.com/rstacruz/cheatsheets/blob/master/vim.md)
 
 == Git
 
 We don't use a full spectrum of Git commands in the courses.
 But we have to know how to configure add and remove remote repositories.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/git_cheatsheet_r2v1.pdf[Git 6-pager] (source: https://developers.redhat.com/cheat-sheets/git)
+
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/git-cheat-sheet-education.pdf[Git 2-pager from Github] (source: https://education.github.com/git-cheat-sheet-education.pdf)
+
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/git-cheat-sheet.pdf[Git 1-pager] (source: http://git.or.cz)
 
 == OpenShift
 
 OpenShift `oc` command has a pretty good help system on its own, but sometimes it helps to have a cheat sheet handy.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/openshift_cheat_sheet_r5v1.pdf[OpenShift commands] (source: https://developers.redhat.com/cheat-sheets/red-hat-openshift-container-platform)
 
 == Docker
 
 Docker is the container engine used in most of OpenShift deployments. 
 It helps to know basic Docker commands.
 
-
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/docker_cheatsheet_r4v2.pdf[Docker commands] (source: https://developers.redhat.com/cheat-sheets/containers/)
 
 == MongoDB
 
 In some of our lab projects we use MongoDB.
 We don't expect students to use MongoDB console commands, but it might be helpful to know some basics to debug if something does wrong with MongoDB cluster.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/MongoDB_Shell_Cheat_Sheet.pdf[MongoDB commands] (source: https://developers.redhat.com/cheat-sheets/mongodb-cheat-sheet)
+
 == Apache Maven
 
 We use Maven to build our example applications.
 If you want to learn more about various options of the `mvn` command, here is a reference for you.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Maven-cheat-sheet.pdf[Maven 1-pager] (source: https://zeroturnaround.com/rebellabs/maven-cheat-sheet/)
+
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/MavenQuickReferenceCard.pdf[Maven 10-pager] (source: https://maven.apache.org/guides/MavenQuickReferenceCard.pdf)
 
 == Jenkins
 
 Jenkins is the tool of choice in OpenShift for building pipelines.
 We have added a one-pager cheatsheet and a much longer Handbook for Jenkins.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Jenkins-Cheat-Sheet-Edureka.pdf[Jenkins Cheatsheet] (source: https://www.edureka.co/blog/jenkins-tutorial/)
+
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/jenkins-user-handbook.pdf[Jenkins Handbook] (source: https://jenkins.io/doc/book/)
 
 == Red Hat OpenShift Learning Path
 
 This is the learning path if you want to become an OpenShift guru.
 
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/OpenShift%20Learning%20Path%20infographic.pdf[OpenShift Learning Path]
 
 == Red Hat Ansible Learning Path
 
 This is the learning path if you want to become an Ansible guru.
+
+https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Ansible%20Learning%20Path%20infographic.pdf[Ansible Learning Path]
