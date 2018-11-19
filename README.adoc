@@ -1,0 +1,63 @@
+= Reference Materials for DevOps and Automation courses
+
+This is a collection of reference cards, cheat sheets, handbooks, and other materials
+that can be helpful for students of Red Hat GPTE courses.
+
+== Linux Commands
+
+Even if you are a seasoned Linux user or admin, sometimes you need a refresher.
+
+Basic Linux commands:
+
+Advanced Linux commands:
+
+== Vim Editor
+
+There are many Vim cheat sheets, from 1-pagers to long handbooks covering every detail. 
+We've chosen the ones that contain the most important information in the very beginning:
+how to exit Vim.
+
+
+== Git
+
+We don't use a full spectrum of Git commands in the courses.
+But we have to know how to configure add and remove remote repositories.
+
+
+== OpenShift
+
+OpenShift `oc` command has a pretty good help system on its own, but sometimes it helps to have a cheat sheet handy.
+
+
+== Docker
+
+Docker is the container engine used in most of OpenShift deployments. 
+It helps to know basic Docker commands.
+
+
+
+== MongoDB
+
+In some of our lab projects we use MongoDB.
+We don't expect students to use MongoDB console commands, but it might be helpful to know some basics to debug if something does wrong with MongoDB cluster.
+
+== Apache Maven
+
+We use Maven to build our example applications.
+If you want to learn more about various options of the `mvn` command, here is a reference for you.
+
+
+== Jenkins
+
+Jenkins is the tool of choice in OpenShift for building pipelines.
+We have added a one-pager cheatsheet and a much longer Handbook for Jenkins.
+
+
+== Red Hat OpenShift Learning Path
+
+This is the learning path if you want to become an OpenShift guru.
+
+
+== Red Hat Ansible Learning Path
+
+This is the learning path if you want to become an Ansible guru.
