@@ -40,6 +40,13 @@ OpenShift `oc` command has a pretty good help system on its own, but sometimes i
 
 https://github.com/redhat-gpte-devopsautomation/reference/blob/master/openshift_cheat_sheet_r5v1.pdf[OpenShift commands] (source: https://developers.redhat.com/cheat-sheets/red-hat-openshift-container-platform)
 
+== Tmux
+
+Tmux can help you with long-running scripts or playbooks.
+It preserves your session in case your host connection is lost.
+
+https://tmuxcheatsheet.com/
+
 == Docker
 
 Docker is the container engine used in most of OpenShift deployments. 
