@@ -47,6 +47,12 @@ It preserves your session in case your host connection is lost.
 
 https://tmuxcheatsheet.com/
 
+== Networking
+
+Subnet Mask cheat sheet: https://www.aelius.com/njh/subnet_sheet.html
+
+`dig` (DNS query tool) HOWTO: https://www.madboa.com/geek/dig/
+
 == Docker
 
 Docker is the container engine used in most of OpenShift deployments. 
