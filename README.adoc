@@ -40,6 +40,16 @@ OpenShift `oc` command has a pretty good help system on its own, but sometimes i
 
 https://github.com/redhat-gpte-devopsautomation/reference/blob/master/openshift_cheat_sheet_r5v1.pdf[OpenShift commands] (source: https://developers.redhat.com/cheat-sheets/red-hat-openshift-container-platform)
 
+== etcd
+
+You may want to explore `etcd` - the distributed database which stores information about the cluster.
+Also we use `etcd` as an example in the Operators Lab.
+You can use commands from the following cheat sheet to test its functionality.
+etcd Cheat Sheet: https://lzone.de/cheat-sheet/etcd
+
+More detailed version is available on the CoreOS site: https://coreos.com/etcd/docs/latest/dev-guide/interacting_v3.html
+
+
 == Tmux
 
 Tmux can help you with long-running scripts or playbooks.
