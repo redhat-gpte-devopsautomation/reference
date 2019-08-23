@@ -95,6 +95,10 @@ https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Jenkins-Ch
 
 https://github.com/redhat-gpte-devopsautomation/reference/blob/master/jenkins-user-handbook.pdf[Jenkins Handbook] (source: https://jenkins.io/doc/book/)
 
+== Ansible
+
+https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0
+
 == Red Hat OpenShift Learning Path
 
 This is the learning path if you want to become an OpenShift guru.
