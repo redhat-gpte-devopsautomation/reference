@@ -88,6 +88,8 @@ https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Maven-chea
 
 https://github.com/redhat-gpte-devopsautomation/reference/blob/master/MavenQuickReferenceCard.pdf[Maven 10-pager] (source: https://maven.apache.org/guides/MavenQuickReferenceCard.pdf)
 
+Maven Commands and Concepts: https://digitalvarys.com/maven-commands-and-concepts/
+
 == Jenkins
 
 Jenkins is the tool of choice in OpenShift for building pipelines.
