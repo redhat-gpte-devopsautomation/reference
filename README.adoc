@@ -23,6 +23,8 @@ how to exit Vim.
 
 https://github.com/redhat-gpte-devopsautomation/reference/blob/master/Vim%20cheatsheet.pdf[Vim Editor] (source: https://github.com/rstacruz/cheatsheets/blob/master/vim.md)
 
+VIM "for people who don't want to use it , but have to..." https://www.cyberciti.biz/faq/linux-unix-vim-save-and-quit-command/
+
 == Git
 
 We don't use a full spectrum of Git commands in the courses.
