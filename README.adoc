@@ -103,6 +103,10 @@ https://github.com/redhat-gpte-devopsautomation/reference/blob/master/jenkins-us
 
 https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0
 
+== Jinja
+
+https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-jinja2.pdf
+
 == Red Hat OpenShift Learning Path
 
 This is the learning path if you want to become an OpenShift guru.
