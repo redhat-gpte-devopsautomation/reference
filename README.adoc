@@ -3,6 +3,10 @@
 This is a collection of reference cards, cheat sheets, handbooks, and other materials
 that can be helpful for students of Red Hat GPTE courses.
 
+== Shell commands, Vim, Git, etc. in one MIT online course
+
+The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
+
 == Linux Commands
 
 Even if you are a seasoned Linux user or admin, sometimes you need a refresher.
